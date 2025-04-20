@@ -12,10 +12,8 @@ I completed this project using **Power BI** and created a **visually engaging, i
 Below are some snapshots of the interactive dashboard created in Power BI:
 
 ![Dashboard Screenshot 1](https://github.com/SecureC0der/Hotel-Booking/blob/master/Screenshot%202025-04-20%20155610.png)
-![Dashboard Screenshot 2](images/screenshot2.png)
-![Dashboard Screenshot 3](images/screenshot3.png)
-
-*(Replace the image paths with actual image files or links when uploading to GitHub)*
+![Dashboard Screenshot 2](https://github.com/SecureC0der/Hotel-Booking/blob/master/Screenshot%202025-04-20%20155621.png)
+![Dashboard Screenshot 3](https://github.com/SecureC0der/Hotel-Booking/blob/master/Screenshot%202025-04-20%20155648.png)
 
 ---
 
