@@ -1,7 +1,21 @@
-# 🏨 User Engagement Analysis for Restaurant Success
+# 🏨 Hotel Booking Cancellation Analysis – Power BI Dashboard
 
 ## 📝 Overview
 This project focuses on understanding how **user engagement** influences **hotel reservation cancellations** and provides actionable insights to help hotels optimize their strategies for reducing cancellations and improving revenue. The goal is to support hotel planning and decision-making through data analysis and clear recommendations.
+
+I completed this project using **Power BI** and created a **visually engaging, interactive dashboard** that provides deep insights into booking behavior, pricing, and cancellation trends.
+
+---
+
+## 📸 Dashboard Preview
+
+Below are some snapshots of the interactive dashboard created in Power BI:
+
+![Dashboard Screenshot 1](images/screenshot1.png)
+![Dashboard Screenshot 2](images/screenshot2.png)
+![Dashboard Screenshot 3](images/screenshot3.png)
+
+*(Replace the image paths with actual image files or links when uploading to GitHub)*
 
 ---
 
@@ -47,11 +61,11 @@ This project focuses on understanding how **user engagement** influences **hotel
 
 ## 🛠 Tools Used
 
-- **Python Libraries**:
-  - **Pandas**: For data manipulation and analysis.
-  - **Matplotlib**: For creating static, interactive, and animated visualizations.
-  - **Seaborn**: For statistical data visualization based on Matplotlib.
-
+- **Power BI**: For building the dashboard and creating DAX-based measures.
+- **Python Libraries (for preprocessing)**:
+  - **Pandas**
+  - **Matplotlib**
+  - **Seaborn**
 
 ---
 
@@ -64,5 +78,3 @@ Data Analyst | Passionate about solving business problems through data
 
 ## 📌 Note
 This project is for educational and portfolio purposes. Data used is for analysis and the suggested strategies are based on hypothetical scenarios.
-
-
